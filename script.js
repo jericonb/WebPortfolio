@@ -6,3 +6,4 @@ menu.onclick = () => {
     navlist.classList.toggle('open')
 
 }
+
